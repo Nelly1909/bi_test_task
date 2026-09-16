@@ -1,0 +1,5 @@
+﻿ProcessID,ProcessName,OwnerTeam,Target_LLM_Accuracy
+101,Валидация кредитных рисков,Risk Validation,95.0
+102,Генерация ad-hoc отчетов,BI Team,90.0
+103,Проверка модельных гипотез,Data Science,92.0
+104,Парсинг документации,Compliance,88.0
